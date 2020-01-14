@@ -304,11 +304,7 @@
 </section>
 
 <!---------------------testimonials -----------> 
-  <section id="testimonials">
-    <div class="container">
-	   <h5>Testimonials</h5>
-	
-	</div>
+  
 
 
 
